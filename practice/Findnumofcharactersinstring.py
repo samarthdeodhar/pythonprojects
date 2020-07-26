@@ -1,4 +1,4 @@
-sentence = "Hi, how are you! Hope your day goes bad!"
+sentence = "Hi how are you! Hope your day goes bad!"
 print(sentence)
 ocr = 0
 #this  tells the computer that you have enter a letter so the computer will find how many times that letter appears.
