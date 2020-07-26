@@ -1,4 +1,3 @@
-sentence = "Hi how are you! Hope your day goes bad!"
 sentence = "Hi how are you! Hope your day goes bad!!!!!"
 print(sentence)
 ocr = 0
