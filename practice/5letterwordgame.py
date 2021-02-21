@@ -1,7 +1,7 @@
 words = []
 print("You play this game like this: Enter a five-letter word, and it will go in the list. If not a five-letter word, it will not. If you repeat a word, GAME OVER.")
 game = "play"
-
+#This game makes you enter a 5 letter word.
 while game == "play":
 
     new = input("Give me a five-letter word.")
